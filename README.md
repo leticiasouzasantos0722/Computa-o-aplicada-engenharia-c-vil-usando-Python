@@ -20,6 +20,7 @@ No projeto é discutido as funcionalidades da programação na área da constru�
 - `Rede de Petris`
 - `VScode`
 - `Github`
+- `Scipy`
 
 ># Autores
 
