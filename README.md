@@ -10,7 +10,7 @@ Pensando na sua grande importância e seu uso recorrente na  ́area, faz-se nece
 > # Status do projeto:                                     Projeto em desenvolvimento
 
 > #  Funcionalidades do projeto
-- `Funcionalidade 1`: Cálcular integrais definidas através do Python
+- `Funcionalidade 1`: Cálcular integrais definidas através do Python e mostrar grafico
 - `Funcionalidade 2`: Estudar os beneficios do uso da computação para a profissão. 
 - `Funcionalidade 3`: Entender a relação do Python e da engenharia.
 
@@ -24,6 +24,7 @@ Pensando na sua grande importância e seu uso recorrente na  ́area, faz-se nece
 - `Scipy`
 - `Numpy`
 - `Math`
+- `Matplotlib`
 
 ># Autores
 
